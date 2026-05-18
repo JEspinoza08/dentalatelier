@@ -20,7 +20,7 @@ export function InstagramSection() {
             </h2>
           </div>
           <a
-            href="https://instagram.com"
+            href="https://instagram.com/dentalatelier.pe"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 self-start sm:self-auto rounded-full border border-border px-5 py-3 text-sm hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -34,7 +34,7 @@ export function InstagramSection() {
           {feed.map((src, i) => (
             <a
               key={i}
-              href="https://instagram.com"
+              href="https://instagram.com/dentalatelier.pe"
               target="_blank"
               rel="noreferrer"
               className="reveal group relative aspect-square overflow-hidden rounded-2xl bg-beige"
